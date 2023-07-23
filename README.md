@@ -14,7 +14,8 @@ Shows available, booked, and selected seats.
 Theatre seating arrangement updates dynamically from the API calls.
 
 
-## Change baseUrl in the file path (\app\src\main\java\com\example\bookmyshowapp\di) to test.
+# Note
+Change baseUrl in the file path (\app\src\main\java\com\example\bookmyshowapp\di) to test.
 ## Mock Sample API call
 [
    {
